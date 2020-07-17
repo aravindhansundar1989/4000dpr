@@ -1091,3 +1091,6 @@ echo "4000dpr" > wordpress.2020-07-17.001.xml
 	</item>
 </channel>
 </rss>
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
